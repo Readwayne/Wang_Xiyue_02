@@ -3,7 +3,6 @@
 ## 📊 Project Overview
 This project analyzes electric bike sales data to uncover patterns in customer behavior, income level, region, and other factors influencing purchase decisions.
 The dataset was cleaned, transformed, and analyzed using Microsoft Excel. Pivot tables and dashboards were created to generate actionable business insights.
-![]()
 
 This project demonstrates my skills in:
 - Data cleaning
@@ -63,6 +62,8 @@ The Excel dashboard includes:
 - Income vs purchase comparison
 - Age group insights
 - Customer segmentation
+  
+
 
 ---
 
