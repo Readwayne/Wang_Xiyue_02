@@ -62,7 +62,7 @@ The Excel dashboard includes:
 - Income vs purchase comparison
 - Age group insights
 - Customer segmentation
-  
+ ![Dashboard](DASBOARD.png) 
 
 
 ---
