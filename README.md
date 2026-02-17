@@ -1,4 +1,5 @@
 # 🚴 Electric Bike Sales Analysis
+![](Overview.png)
 
 ## 📊 Project Overview
 This project analyzes electric bike sales data to uncover patterns in customer behavior, income level, region, and other factors influencing purchase decisions.
@@ -62,6 +63,7 @@ The Excel dashboard includes:
 - Income vs purchase comparison
 - Age group insights
 - Customer segmentation
+  ---
  ![Dashboard](DASBOARD.png) 
 
 
